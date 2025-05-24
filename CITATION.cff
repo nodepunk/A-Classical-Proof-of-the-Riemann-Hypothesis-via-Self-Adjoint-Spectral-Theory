@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+authors:
+- family-names: "Ip"
+  given-names: "Lawrence"
+title: "A-Classical-Proof-of-the-Riemann-Hypothesis-via-Self-Adjoint-Spectral-Theory"
+version: 1.0.0
+doi: 10.5281/zenodo.15454540
+date-released: 2025-05-24
+url: "https://github.com/nodepunk/A-Classical-Proof-of-the-Riemann-Hypothesis-via-Self-Adjoint-Spectral-Theory"
