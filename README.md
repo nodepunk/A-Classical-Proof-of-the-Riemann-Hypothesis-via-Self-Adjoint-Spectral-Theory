@@ -1,4 +1,4 @@
-# A-Classical-Proof-of-the-Riemann-Hypothesis-via-Self-Adjoint-Spectral-Theory
+# A Classical Proof of the Riemann Hypothesis via Self Adjoint Spectral-Theory
 
 ## Author: Lawrence Ip
 
